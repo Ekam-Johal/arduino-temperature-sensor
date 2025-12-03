@@ -74,7 +74,7 @@ Install these from **Library Manager**:
 
 1. Wire the Arduino, DHT11, and LCD as shown above.
 2. Open `TemperatureMonitor/TemperatureMonitor.ino` in the Arduino IDE.
-3. Select **Board:** `Arduino Uno` and the correct **Port`.
+3. Select **Board:** `Arduino Uno` and the correct Port.
 4. Click **Upload**.
 5. The LCD will first show `Temp Monitor / Starting...` and then live temperature and humidity values.
 
