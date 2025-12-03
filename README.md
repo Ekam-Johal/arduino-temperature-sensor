@@ -9,6 +9,7 @@
 Simple Arduino project that reads **temperature and humidity** from a DHT11 sensor and displays the values on a **16x2 I2C LCD**.  
 
 This is one of my first embedded projects and is part of my electronics/Arduino learning journey.
+This project was built as part of my self-directed learning in electronics and embedded systems during my first year of engineering.
 
 ---
 
@@ -76,6 +77,16 @@ Install these from **Library Manager**:
 3. Select **Board:** `Arduino Uno` and the correct **Port`.
 4. Click **Upload**.
 5. The LCD will first show `Temp Monitor / Starting...` and then live temperature and humidity values.
+
+---
+
+## Skills Demonstrated
+
+- Basic embedded C/C++ programming on Arduino
+- Reading digital sensors (DHT11) and handling errors
+- I2C communication with a 16x2 LCD display
+- Interpreting wiring diagrams and building circuits on a breadboard
+- Writing clear technical documentation for a hardware project
 
 ---
 
