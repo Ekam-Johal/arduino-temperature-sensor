@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ebe3cce-17f4-4a39-8421-96054ca80baa" width="45%" style="border-radius:8px;">
+</p>
+
 # Arduino DHT11 LCD Temperature Monitor
 
 Simple Arduino project that reads **temperature and humidity** from a DHT11 sensor and displays the values on a **16x2 I2C LCD**.  
@@ -12,6 +17,11 @@ This is one of my first embedded projects and is part of my electronics/Arduino 
 - Displays live readings on a **16x2 I2C LCD**  
 - Updates every 2 seconds  
 - Basic error handling if the sensor reading fails
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d7f7638-fbfa-41dc-b3d6-9b41c795106c" width="45%">
+  <img src="https://github.com/user-attachments/assets/44d1a2fb-d63b-4624-ab30-b5d1ac85f983" width="45%">
+</p>
 
 ---
 
